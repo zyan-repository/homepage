@@ -3,6 +3,12 @@
 ## Author
 Yian Zhou
 
+## Class Link
+[Class Link](https://northeastern.instructure.com/courses/225993)
+
+## Screenshot
+![Screenshot](images/screenshot.png) 
+
 ## Project Objective
 This is a personal homepage built using vanilla HTML5, CSS3, and ES6+ JavaScript. 
 
